@@ -1,7 +1,7 @@
 ### Hi Developers 👋
 
-[![Linkedin Badge](https://www.linkedin.com/in/haripriya-karuthapandian-a966b8189/)
-[![Website Badge](https://stackoverflow.com/users/edit/12644582)
+[![Linkedin Badge]https://img.shields.io/badge/-Haripriya-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/haripriya-karuthapandian-a966b8189/)](https://www.linkedin.com/in/haripriya-karuthapandian-a966b8189/)
+[![Website Badge](https://img.shields.io/badge/StackOverflow-Haripriya-yellow)](https://stackoverflow.com/users/edit/12644582)
 
 I'm
 Full Stack Solution Architect
